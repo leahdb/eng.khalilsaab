@@ -1,0 +1,38 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="425px" height="55px">
+<defs>
+<linearGradient id="PSgrad_0" x1="0%" x2="0%" y1="100%" y2="0%">
+  <stop offset="0%" stop-color="rgb(3,3,3)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(248,231,150)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(236,217,142)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(248,231,150)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(255,215,92)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(90,59,2)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(153,123,63)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(255,247,177)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(255,254,242)" stop-opacity="1" />
+  <stop offset="51%" stop-color="rgb(252,238,115)" stop-opacity="1" />
+  <stop offset="100%" stop-color="rgb(217,193,59)" stop-opacity="1" />
+</linearGradient>
+<linearGradient id="PSgrad_1" x1="0%" x2="0%" y1="100%" y2="0%">
+  <stop offset="0%" stop-color="rgb(3,3,3)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(248,231,150)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(236,217,142)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(248,231,150)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(255,215,92)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(90,59,2)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(153,123,63)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(255,247,177)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(255,245,162)" stop-opacity="1" />
+  <stop offset="38%" stop-color="rgb(252,238,115)" stop-opacity="1" />
+  <stop offset="100%" stop-color="rgb(234,210,80)" stop-opacity="1" />
+</linearGradient>
+
+</defs>
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="58.333px" x="0px" y="44px"><tspan font-size="58.333px" font-family="Lucida Bright" fill="#FFFFFF">Eng&#46;</tspan><tspan font-size="58.333px" font-family="Lucida Bright" fill="#FFFFFF">&#32;</tspan><tspan font-size="54.167px" font-family="Lucida Bright" fill="#FEFEFE">Khalil&#32;Saab</tspan></text>
+<text kerning="auto" font-family="Myriad Pro" fill="url(#PSgrad_0)" font-size="58.333px" x="0px" y="44px"><tspan font-size="58.333px" font-family="Lucida Bright" fill="#FFFFFF">Eng&#46;</tspan><tspan font-size="58.333px" font-family="Lucida Bright" fill="#FFFFFF">&#32;</tspan><tspan font-size="54.167px" font-family="Lucida Bright" fill="#FEFEFE">Khalil&#32;Saab</tspan></text>
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="54.167px" x="140px" y="43px"><tspan font-size="54.167px" font-family="Lucida Bright" fill="#FEFEFE">Khalil&#32;Saab</tspan></text>
+<text kerning="auto" font-family="Myriad Pro" fill="url(#PSgrad_1)" font-size="54.167px" x="140px" y="43px"><tspan font-size="54.167px" font-family="Lucida Bright" fill="#FEFEFE">Khalil&#32;Saab</tspan></text>
+</svg>
